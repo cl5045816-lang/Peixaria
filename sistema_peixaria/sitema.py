@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Interface gráfica (Tkinter) - Sistema de Cadastro de Clientes da Peixaria.
-Usa o mesmo arquivo 'dados_peixaria.json' da versão de terminal (peixaria.py),
+Usa o mesmo arquivo 'dados_peixaria.json' da versão de terminal (peixaria.py),,
 então os dois programas compartilham os mesmos dados se estiverem na mesma pasta.
 """
 
