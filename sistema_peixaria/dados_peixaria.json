@@ -5,7 +5,7 @@
       "nome": "Tilápia",
       "categoria": "Água doce",
       "preco_kg": 24.9
-    },
+    },,
     {
       "id": 2,
       "nome": "Tambaqui",
